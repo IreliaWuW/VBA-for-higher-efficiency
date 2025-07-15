@@ -1,0 +1,9 @@
+Usage
+打开Excel文件。
+按 Alt + F11 ，打开VBA编辑器。
+在VBA编辑器中，点击菜单栏的 “插入” (Insert) > “模块” (Module)。创建一个新的代码模块。
+将工具文件里的代码复制并粘贴到空白代码窗口中。
+关闭VBA编辑器，返回Excel界面。
+按下Alt + F8 ，打开宏对话框。
+选择 HighlightCellsWithChineseChars 这个宏，然后点击 “运行” (Run)。
+后续按弹出的提示操作即可。
